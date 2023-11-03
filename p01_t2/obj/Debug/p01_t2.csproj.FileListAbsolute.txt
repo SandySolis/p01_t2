@@ -1,0 +1,7 @@
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\bin\Debug\p01_t2.exe.config
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\bin\Debug\p01_t2.exe
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\bin\Debug\p01_t2.pdb
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\obj\Debug\p01_t2.csproj.AssemblyReference.cache
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\obj\Debug\p01_t2.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\obj\Debug\p01_t2.exe
+C:\Users\CHRISTOPHER\source\repos\p01_t2\p01_t2\obj\Debug\p01_t2.pdb
